@@ -95,6 +95,15 @@ import './App.css';
           <div className="timeline-body"><p className="text-muted">Saat ini kami telah memiliki beberapa cabang yang sudah tersebar di kota-kota besar seperti Manado, Bitung, Tomohon dan juga cabang diluar pulai yang berada di Jakarta Selatan.</p></div>
         </div>
       </li>
+  <li>
+        <div className="timeline-panel">
+          <div className="timeline-about">
+            <h4>Oktober 2022</h4>
+            <h4 className="about">Services</h4>
+          </div>
+          <div className="timeline-about"><p className="text-muted">Tokyo adalah sebuah grup yang terdiri dari 4 orang wanita kuat. </p></div>
+        </div>
+      </li>
     </ul>
   </div>
 </section>
