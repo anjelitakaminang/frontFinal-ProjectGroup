@@ -123,10 +123,10 @@ import './App.css';
         <div className="team-member">
           <img className="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
           <h4>Natalia Katutu</h4>
-          <p className="text-muted">Chief Financial Officer</p>
-          <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i className="fab fa-twitter" /></a>
-          <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><i className="fab fa-facebook-f" /></a>
-          <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker LinkedIn Profile"><i className="fab fa-linkedin-in" /></a>
+          <p className="text-muted">Sistem Informasi</p>
+          <a className="btn btn-dark btn-social mx-2" href="https://twitter.com/coursedkidd" aria-label="Willy The Kid Twitter Profile"><i className="fab fa-twitter" /></a>
+          <a className="btn btn-dark btn-social mx-2" href="https://facebook.com/Natalia Katutu" aria-label="Natalia Katutu Facebook Profile"><i className="fab fa-facebook-f" /></a>
+          <a className="btn btn-dark btn-social mx-2" href="-" aria-label="Tidak ada ges LinkedIn Profile"><i className="fab fa-linkedin-in" /></a>
         </div>
       </div>
     </div>
