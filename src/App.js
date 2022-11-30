@@ -114,9 +114,9 @@ import './App.css';
           <img className="mx-auto rounded-circle" src="assets/img/team/syalom.jpeg" alt="..." />
           <h4>Syalom Wagey</h4>
           <p className="text-muted">Chief Marketing Officer</p>
-          <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Twitter Profile"><i className="fab fa-twitter" /></a>
-          <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Facebook Profile"><i className="fab fa-facebook-f" /></a>
-          <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen LinkedIn Profile"><i className="fab fa-linkedin-in" /></a>
+          <a className="btn btn-dark btn-social mx-2" href="https://twitter.com/s_wagey" aria-label="Syalom Wagey Twitter Profile"><i className="fab fa-twitter" /></a>
+          <a className="btn btn-dark btn-social mx-2" href="https://web.facebook.com/G.G.Wagey29" aria-label="Syalom Wagey Twitter Facebook Profile"><i className="fab fa-facebook-f" /></a>
+          <a className="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/syalom-gabriela-wagey-581288206/" aria-label="Syalom Wagey LinkedIn Profile"><i className="fab fa-linkedin-in" /></a>
         </div>
       </div>
       <div className="col-lg-4">
