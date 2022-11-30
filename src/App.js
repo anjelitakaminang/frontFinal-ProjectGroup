@@ -34,6 +34,13 @@ import './App.css';
         <p className="text-muted">Menyediakan jasa services barang elektronik seperti laptop dan handphone khusus android. Tentu saja dengan harga yang murah bagi semua kalangan.</p>
       </div>
       <div className="col-md-4">
+      <span className="fa-stack fa-4x">
+      <i className="fas fa-circle fa-stack-2x text-primary"/>
+      <i className="fas fa-laptop fa-stack-1x fa-inverse" />
+      </span>
+      <h4 className="my-3">Electronic Buy</h4>
+      <p className="text-muted">Menyediakan pembayaran secara online</p>
+      <div className="col-md-4">
         <span className="fa-stack fa-4x">
           <i className="fas fa-circle fa-stack-2x text-primary" />
           <i className="fas fa-lock fa-stack-1x fa-inverse" />
