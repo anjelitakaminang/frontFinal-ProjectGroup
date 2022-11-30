@@ -17,6 +17,7 @@ export default function nav()
             <li classname="nav-item"><a classname="nav-link" href="#about">About</a></li>
             <li classname="nav-item"><a classname="nav-link" href="#team">Team</a></li>
             <li classname="nav-item"><a classname="nav-link" href="#contact">Contact</a></li>
+            <li classname="nav-item"><a classname="nav-link" href="#about">about</a></li>
           </ul>
         </div>
       </i></div><i classname="fas fa-bars ms-1">
