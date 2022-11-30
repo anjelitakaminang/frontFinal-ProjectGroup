@@ -140,9 +140,13 @@ import './App.css';
           <img className="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
           <h4>Natalia Katutu</h4>
           <p className="text-muted">Sistem Informasi</p>
+           <p className="text-muted">Fakultas Ilmu Komputer</p>
+           <p className="text-muted">Semester 5</p>
+
+          
           <a className="btn btn-dark btn-social mx-2" href="https://twitter.com/coursedkidd" aria-label="Willy The Kid Twitter Profile"><i className="fab fa-twitter" /></a>
           <a className="btn btn-dark btn-social mx-2" href="https://facebook.com/Natalia Katutu" aria-label="Natalia Katutu Facebook Profile"><i className="fab fa-facebook-f" /></a>
-          <a className="btn btn-dark btn-social mx-2" href="-" aria-label="Tidak ada ges LinkedIn Profile"><i className="fab fa-linkedin-in" /></a>
+         <a className="btn btn-dark btn-social mx-2" href="https://instagram.com/untruee" aria-label="Natalia Instagram Profile"><i className="fab fa-instagram" /></a>
         </div>
       </div>
     </div>
@@ -224,6 +228,7 @@ import './App.css';
         <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Twitter"><i className="fab fa-twitter" /></a>
         <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="Facebook"><i className="fab fa-facebook-f" /></a>
         <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="LinkedIn"><i className="fab fa-linkedin-in" /></a>
+
       </div>
       <div className="col-lg-4 text-lg-end">
         <a className="link-dark text-decoration-none me-3" href="#!">Privacy Policy</a>
