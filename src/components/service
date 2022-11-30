@@ -1,0 +1,25 @@
+import React from 'react';
+
+export default function services() 
+{
+    <div>
+  <section classname="page-section" id="services">
+    <div classname="container">
+      <div classname="text-center">
+        <h2 classname="section-heading text-uppercase">Services</h2>
+        <h3 classname="section-subheading text-muted">Created by. Tokyo</h3>
+      </div>
+      <div classname="row text-center">
+        <div classname="col-md-4">
+          <span classname="fa-stack fa-4x">
+            <i classname="fas fa-circle fa-stack-2x text-primary">
+              <i classname="fas fa-shopping-cart fa-stack-1x fa-inverse">
+              </i></i></span><i classname="fas fa-circle fa-stack-2x text-primary"><i classname="fas fa-shopping-cart fa-stack-1x fa-inverse">
+              <h4 classname="my-3">E-Commerce</h4>
+              <p classname="text-muted">Menghadirkan fitur jual beli jasa kebersihan bagi semua masyarakat, dengan harga yang terjangkau untuk semua kalangan.</p>
+            </i></i></div><i classname="fas fa-circle fa-stack-2x text-primary"><i classname="fas fa-shopping-cart fa-stack-1x fa-inverse">
+            <div classname="col-md-4">
+              <span classname="fa-stack fa-4x">
+                <i classname="fas fa-circle fa-stack-2x text-primary">
+                  <i classname="fas fa-laptop fa-stack-1x fa-inverse">
+                  </i></i></span><i classname="fas fa-circle fa-stack-2x text-primary"><i classname="fas fa-laptop fa-stack-1x fa-inverse">
